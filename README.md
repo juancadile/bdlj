@@ -7,3 +7,5 @@
 ### [Ver Proyecto](https://jonmircha.github.io/edgram)
 
 ![HTML5 Avanzado: Progressive Web Apps](https://ed.team/sites/default/files/styles/large/public/courses/images/pwa-poster.png?itok=xRdXrJjI)
+
+PUTO EL QUE LEE
