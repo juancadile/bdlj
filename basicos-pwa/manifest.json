@@ -1,7 +1,7 @@
 {
   "name": "Progressive Web App Demo",
-  "short_name": "PWA Demo",
-  "description": "Demo de aplicación web progresiva.",
+  "short_name": "App Basílica",
+  "description": "Descripción Manifest App Basílica",
   "background_color": "#F7DF1E",
   "theme_color": "#000",
   "orientation": "portrait",
